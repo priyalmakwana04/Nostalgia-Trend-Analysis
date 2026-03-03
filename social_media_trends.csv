@@ -1,0 +1,161 @@
+post_id,year,hashtag,caption,engagement,audio_name,creator_type
+1,2014,#tumblr,soft grunge aesthetic vibes,1154,song_A,micro_creator
+2,2014,#tumblr,soft grunge aesthetic vibes,847,song_A,micro_creator
+3,2014,#softgrunge,soft grunge aesthetic vibes,1280,song_A,micro_creator
+4,2014,#y2k,soft grunge aesthetic vibes,1003,song_A,micro_creator
+5,2014,#softgrunge,soft grunge aesthetic vibes,1632,song_A,normal_user
+6,2014,#y2k,soft grunge aesthetic vibes,1160,song_A,normal_user
+7,2014,#tumblr,soft grunge aesthetic vibes,1541,song_A,micro_creator
+8,2014,#tumblr,soft grunge aesthetic vibes,781,song_A,micro_creator
+9,2014,#softgrunge,soft grunge aesthetic vibes,799,song_A,normal_user
+10,2014,#tumblr,soft grunge aesthetic vibes,1174,song_A,normal_user
+11,2014,#tumblr,soft grunge aesthetic vibes,1502,song_A,micro_creator
+12,2014,#vintagevibes,soft grunge aesthetic vibes,1570,song_A,micro_creator
+13,2014,#softgrunge,soft grunge aesthetic vibes,1049,song_A,micro_creator
+14,2014,#tumblr,soft grunge aesthetic vibes,1511,song_A,normal_user
+15,2014,#tumblr,soft grunge aesthetic vibes,1731,song_A,micro_creator
+16,2014,#vintagevibes,soft grunge aesthetic vibes,1396,song_A,normal_user
+17,2014,#softgrunge,soft grunge aesthetic vibes,599,song_A,normal_user
+18,2014,#softgrunge,soft grunge aesthetic vibes,1045,song_A,micro_creator
+19,2014,#y2k,soft grunge aesthetic vibes,1902,song_A,micro_creator
+20,2014,#y2k,soft grunge aesthetic vibes,752,song_A,micro_creator
+21,2015,#vintagevibes,soft grunge aesthetic vibes,1337,song_A,micro_creator
+22,2015,#y2k,soft grunge aesthetic vibes,685,song_A,normal_user
+23,2015,#vintagevibes,soft grunge aesthetic vibes,556,song_A,normal_user
+24,2015,#tumblr,soft grunge aesthetic vibes,722,song_A,micro_creator
+25,2015,#tumblr,soft grunge aesthetic vibes,1292,song_A,normal_user
+26,2015,#y2k,soft grunge aesthetic vibes,1456,song_A,micro_creator
+27,2015,#softgrunge,soft grunge aesthetic vibes,1072,song_A,micro_creator
+28,2015,#softgrunge,soft grunge aesthetic vibes,621,song_A,normal_user
+29,2015,#vintagevibes,soft grunge aesthetic vibes,1796,song_A,micro_creator
+30,2015,#softgrunge,soft grunge aesthetic vibes,1921,song_A,micro_creator
+31,2015,#softgrunge,soft grunge aesthetic vibes,1163,song_A,normal_user
+32,2015,#tumblr,soft grunge aesthetic vibes,1035,song_A,micro_creator
+33,2015,#y2k,soft grunge aesthetic vibes,674,song_A,micro_creator
+34,2015,#vintagevibes,soft grunge aesthetic vibes,1998,song_A,normal_user
+35,2015,#vintagevibes,soft grunge aesthetic vibes,931,song_A,micro_creator
+36,2015,#tumblr,soft grunge aesthetic vibes,845,song_A,normal_user
+37,2015,#y2k,soft grunge aesthetic vibes,1675,song_A,micro_creator
+38,2015,#softgrunge,soft grunge aesthetic vibes,1892,song_A,normal_user
+39,2015,#y2k,soft grunge aesthetic vibes,1846,song_A,normal_user
+40,2015,#tumblr,soft grunge aesthetic vibes,1531,song_A,micro_creator
+41,2016,#softgrunge,soft grunge aesthetic vibes,998,song_A,micro_creator
+42,2016,#y2k,soft grunge aesthetic vibes,1168,song_A,normal_user
+43,2016,#softgrunge,soft grunge aesthetic vibes,947,song_A,normal_user
+44,2016,#vintagevibes,soft grunge aesthetic vibes,1406,song_A,normal_user
+45,2016,#y2k,soft grunge aesthetic vibes,1736,song_A,normal_user
+46,2016,#softgrunge,soft grunge aesthetic vibes,1583,song_A,micro_creator
+47,2016,#y2k,soft grunge aesthetic vibes,657,song_A,normal_user
+48,2016,#vintagevibes,soft grunge aesthetic vibes,870,song_A,normal_user
+49,2016,#softgrunge,soft grunge aesthetic vibes,1434,song_A,micro_creator
+50,2016,#y2k,soft grunge aesthetic vibes,1683,song_A,micro_creator
+51,2016,#y2k,soft grunge aesthetic vibes,1121,song_A,micro_creator
+52,2016,#softgrunge,soft grunge aesthetic vibes,1816,song_A,normal_user
+53,2016,#tumblr,soft grunge aesthetic vibes,1399,song_A,micro_creator
+54,2016,#softgrunge,soft grunge aesthetic vibes,1831,song_A,micro_creator
+55,2016,#tumblr,soft grunge aesthetic vibes,1328,song_A,micro_creator
+56,2016,#vintagevibes,soft grunge aesthetic vibes,525,song_A,micro_creator
+57,2016,#y2k,soft grunge aesthetic vibes,683,song_A,normal_user
+58,2016,#vintagevibes,soft grunge aesthetic vibes,1190,song_A,normal_user
+59,2016,#y2k,soft grunge aesthetic vibes,1893,song_A,normal_user
+60,2016,#y2k,soft grunge aesthetic vibes,928,song_A,micro_creator
+61,2017,#tumblr,soft grunge aesthetic vibes,1419,song_A,normal_user
+62,2017,#tumblr,soft grunge aesthetic vibes,1176,song_A,micro_creator
+63,2017,#y2k,soft grunge aesthetic vibes,1815,song_A,micro_creator
+64,2017,#tumblr,soft grunge aesthetic vibes,1022,song_A,normal_user
+65,2017,#vintagevibes,soft grunge aesthetic vibes,1311,song_A,micro_creator
+66,2017,#vintagevibes,soft grunge aesthetic vibes,1548,song_A,micro_creator
+67,2017,#softgrunge,soft grunge aesthetic vibes,1984,song_A,normal_user
+68,2017,#vintagevibes,soft grunge aesthetic vibes,1884,song_A,micro_creator
+69,2017,#vintagevibes,soft grunge aesthetic vibes,761,song_A,micro_creator
+70,2017,#tumblr,soft grunge aesthetic vibes,1150,song_A,micro_creator
+71,2017,#softgrunge,soft grunge aesthetic vibes,1085,song_A,micro_creator
+72,2017,#tumblr,soft grunge aesthetic vibes,683,song_A,normal_user
+73,2017,#vintagevibes,soft grunge aesthetic vibes,1001,song_A,micro_creator
+74,2017,#tumblr,soft grunge aesthetic vibes,1466,song_A,micro_creator
+75,2017,#softgrunge,soft grunge aesthetic vibes,577,song_A,normal_user
+76,2017,#tumblr,soft grunge aesthetic vibes,1762,song_A,micro_creator
+77,2017,#vintagevibes,soft grunge aesthetic vibes,519,song_A,micro_creator
+78,2017,#vintagevibes,soft grunge aesthetic vibes,548,song_A,micro_creator
+79,2017,#softgrunge,soft grunge aesthetic vibes,570,song_A,micro_creator
+80,2017,#vintagevibes,soft grunge aesthetic vibes,1269,song_A,micro_creator
+81,2018,#softgrunge,soft grunge aesthetic vibes,1717,song_A,normal_user
+82,2018,#vintagevibes,soft grunge aesthetic vibes,1555,song_A,normal_user
+83,2018,#vintagevibes,soft grunge aesthetic vibes,1468,song_A,normal_user
+84,2018,#vintagevibes,soft grunge aesthetic vibes,821,song_A,normal_user
+85,2018,#vintagevibes,soft grunge aesthetic vibes,1996,song_A,normal_user
+86,2018,#y2k,soft grunge aesthetic vibes,1791,song_A,micro_creator
+87,2018,#vintagevibes,soft grunge aesthetic vibes,563,song_A,micro_creator
+88,2018,#tumblr,soft grunge aesthetic vibes,1690,song_A,normal_user
+89,2018,#vintagevibes,soft grunge aesthetic vibes,629,song_A,normal_user
+90,2018,#y2k,soft grunge aesthetic vibes,1559,song_A,micro_creator
+91,2018,#tumblr,soft grunge aesthetic vibes,1757,song_A,normal_user
+92,2018,#tumblr,soft grunge aesthetic vibes,1188,song_A,micro_creator
+93,2018,#tumblr,soft grunge aesthetic vibes,1888,song_A,normal_user
+94,2018,#vintagevibes,soft grunge aesthetic vibes,1359,song_A,micro_creator
+95,2018,#softgrunge,soft grunge aesthetic vibes,1405,song_A,normal_user
+96,2018,#vintagevibes,soft grunge aesthetic vibes,1360,song_A,micro_creator
+97,2018,#vintagevibes,soft grunge aesthetic vibes,1310,song_A,normal_user
+98,2018,#y2k,soft grunge aesthetic vibes,609,song_A,micro_creator
+99,2018,#softgrunge,soft grunge aesthetic vibes,1569,song_A,micro_creator
+100,2018,#softgrunge,soft grunge aesthetic vibes,1334,song_A,micro_creator
+101,2025,#vintagevibes,bringing back 2016 tumblr era,14677,song_A,influencer
+102,2025,#futurecore,bringing back 2016 tumblr era,8788,song_A,micro_creator
+103,2025,#futurecore,bringing back 2016 tumblr era,9187,song_A,influencer
+104,2025,#softgrunge,bringing back 2016 tumblr era,10971,song_A,influencer
+105,2025,#futurecore,bringing back 2016 tumblr era,14259,song_A,influencer
+106,2025,#softgrunge,bringing back 2016 tumblr era,12429,song_A,influencer
+107,2025,#futurecore,bringing back 2016 tumblr era,12567,song_A,micro_creator
+108,2025,#tumblr,bringing back 2016 tumblr era,13343,song_A,micro_creator
+109,2025,#vintagevibes,bringing back 2016 tumblr era,8327,song_A,influencer
+110,2025,#y2k,bringing back 2016 tumblr era,9884,song_A,influencer
+111,2025,#aiart,bringing back 2016 tumblr era,14584,song_A,micro_creator
+112,2025,#tumblr,bringing back 2016 tumblr era,8539,song_A,influencer
+113,2025,#tumblr,bringing back 2016 tumblr era,14214,song_A,influencer
+114,2025,#aiart,bringing back 2016 tumblr era,10652,song_A,micro_creator
+115,2025,#softgrunge,bringing back 2016 tumblr era,14625,song_A,influencer
+116,2025,#futurecore,bringing back 2016 tumblr era,13317,song_A,micro_creator
+117,2025,#tumblr,bringing back 2016 tumblr era,12085,song_A,influencer
+118,2025,#aiart,bringing back 2016 tumblr era,12941,song_A,influencer
+119,2025,#aiart,bringing back 2016 tumblr era,12678,song_A,influencer
+120,2025,#futurecore,bringing back 2016 tumblr era,14085,song_A,influencer
+121,2025,#softgrunge,bringing back 2016 tumblr era,9933,song_A,micro_creator
+122,2025,#vintagevibes,bringing back 2016 tumblr era,13248,song_A,influencer
+123,2025,#y2k,bringing back 2016 tumblr era,9848,song_A,micro_creator
+124,2025,#softgrunge,bringing back 2016 tumblr era,11096,song_A,micro_creator
+125,2025,#y2k,bringing back 2016 tumblr era,14117,song_A,influencer
+126,2025,#tumblr,bringing back 2016 tumblr era,9647,song_A,micro_creator
+127,2025,#tumblr,bringing back 2016 tumblr era,13889,song_A,influencer
+128,2025,#vintagevibes,bringing back 2016 tumblr era,8824,song_A,influencer
+129,2025,#aiart,bringing back 2016 tumblr era,13939,song_A,influencer
+130,2025,#vintagevibes,bringing back 2016 tumblr era,11940,song_A,influencer
+131,2026,#tumblr,bringing back 2016 tumblr era,12095,song_A,micro_creator
+132,2026,#vintagevibes,bringing back 2016 tumblr era,8534,song_A,influencer
+133,2026,#futurecore,bringing back 2016 tumblr era,13575,song_A,micro_creator
+134,2026,#aiart,bringing back 2016 tumblr era,9786,song_A,influencer
+135,2026,#tumblr,bringing back 2016 tumblr era,11512,song_A,micro_creator
+136,2026,#softgrunge,bringing back 2016 tumblr era,8251,song_A,influencer
+137,2026,#aiart,bringing back 2016 tumblr era,10761,song_A,micro_creator
+138,2026,#futurecore,bringing back 2016 tumblr era,11040,song_A,influencer
+139,2026,#futurecore,bringing back 2016 tumblr era,9334,song_A,influencer
+140,2026,#y2k,bringing back 2016 tumblr era,9114,song_A,influencer
+141,2026,#tumblr,bringing back 2016 tumblr era,10260,song_A,micro_creator
+142,2026,#tumblr,bringing back 2016 tumblr era,9182,song_A,micro_creator
+143,2026,#vintagevibes,bringing back 2016 tumblr era,12867,song_A,micro_creator
+144,2026,#aiart,bringing back 2016 tumblr era,12425,song_A,influencer
+145,2026,#y2k,bringing back 2016 tumblr era,10270,song_A,micro_creator
+146,2026,#futurecore,bringing back 2016 tumblr era,9930,song_A,influencer
+147,2026,#y2k,bringing back 2016 tumblr era,12484,song_A,micro_creator
+148,2026,#y2k,bringing back 2016 tumblr era,14192,song_A,micro_creator
+149,2026,#y2k,bringing back 2016 tumblr era,11971,song_A,micro_creator
+150,2026,#softgrunge,bringing back 2016 tumblr era,9447,song_A,influencer
+151,2026,#aiart,bringing back 2016 tumblr era,9506,song_A,micro_creator
+152,2026,#tumblr,bringing back 2016 tumblr era,13917,song_A,influencer
+153,2026,#aiart,bringing back 2016 tumblr era,8803,song_A,micro_creator
+154,2026,#vintagevibes,bringing back 2016 tumblr era,13490,song_A,micro_creator
+155,2026,#y2k,bringing back 2016 tumblr era,14489,song_A,influencer
+156,2026,#aiart,bringing back 2016 tumblr era,8199,song_A,influencer
+157,2026,#futurecore,bringing back 2016 tumblr era,11312,song_A,micro_creator
+158,2026,#aiart,bringing back 2016 tumblr era,12246,song_A,micro_creator
+159,2026,#y2k,bringing back 2016 tumblr era,10246,song_A,micro_creator
+160,2026,#softgrunge,bringing back 2016 tumblr era,13908,song_A,micro_creator
